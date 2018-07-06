@@ -13,6 +13,8 @@
 
 - 2017 - Tailor Brands - Production grade Kubernetes on AWS (series) - https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-primer-5b83e71c024
 
+- 2017 - Applatix - Making Kubernetes Production Ready (series) - https://applatix.com/making-kubernetes-production-ready/
+
 
 ### Talk
 
