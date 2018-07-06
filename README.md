@@ -1,8 +1,8 @@
 ## Lessons learned/problems/incidents when running Kubernetes
 
-- 2018 - Gravitational - The Horrors of Upgrading Etcd Beneath Kubernetes - https://gravitational.com/blog/kubernetes-and-offline-etcd-upgrades/
-
 ### Write-up
+
+- 2018 - Gravitational - The Horrors of Upgrading Etcd Beneath Kubernetes - https://gravitational.com/blog/kubernetes-and-offline-etcd-upgrades/
 
 - 2018 - MEE6 - Scaling Kubernetes for 25M users - https://medium.com/@brendanrius/scaling-kubernetes-for-25m-users-a7937e3536a0
 
