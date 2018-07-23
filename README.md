@@ -5,6 +5,8 @@
 
 - 2018 - MEE6 - Scaling Kubernetes for 25M users - https://medium.com/@brendanrius/scaling-kubernetes-for-25m-users-a7937e3536a0
 
+- 2017 - GitHub - Kubernetes at GitHub - https://githubengineering.com/kubernetes-at-github/
+
 - 2017 - Saltside - Our Failure Migrating to Kubernetes - https://engineering.saltside.se/our-failure-migrating-to-kubernetes-25c28e6dd604
 
 - 2017 - Saltside - Migrating to Kubernetes: Day 20 Problems - https://engineering.saltside.se/migrating-to-kubernetes-day-20-problems-fbbda4905c23
@@ -21,6 +23,7 @@
 - 2018 - Financial Times - Keynote: The Challenges of Migrating 150+ Microservices to Kubernetes - https://www.youtube.com/watch?v=H06qrNmGqyE
 
 - 2018 - Monzo Bank - Anatomy of a Production Kubernetes Outage (incident available in section `Incidents/Outages`) - https://www.youtube.com/watch?v=OUYTNywPk-s
+
 
 ### Incident/Outage
 
