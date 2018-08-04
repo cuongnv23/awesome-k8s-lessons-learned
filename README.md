@@ -1,9 +1,10 @@
 ## Lessons learned/problems/incidents when running Kubernetes
 
-
 ### Write-up
 
 - 2018 - ReactiveOps - The ReactiveOps “Bestest Kubernetes Cluster Upgrade” - https://medium.com/@reactiveops/the-reactiveops-bestest-kubernetes-cluster-upgrade-f7a7589b21fb
+
+- 2018 - Gravitational - The Horrors of Upgrading Etcd Beneath Kubernetes - https://gravitational.com/blog/kubernetes-and-offline-etcd-upgrades/
 
 - 2018 - MEE6 - Scaling Kubernetes for 25M users - https://medium.com/@brendanrius/scaling-kubernetes-for-25m-users-a7937e3536a0
 
