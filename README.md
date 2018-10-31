@@ -20,6 +20,8 @@
 
 - 2017 - Applatix - Making Kubernetes Production Ready (series) - https://applatix.com/making-kubernetes-production-ready/
 
+- 2017 - Daniel Martins - Pain(less) NGINX Ingress - https://danielfm.me/posts/painless-nginx-ingress.html
+
 
 ### Talk
 
