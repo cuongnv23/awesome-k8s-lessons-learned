@@ -1,6 +1,7 @@
 ## Lessons learned/problems/incidents when running Kubernetes
 
 ### Write-up
+- 2019 - Tinder - Tinder’s move to Kubernetes - https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44
 
 - 2018 - ReactiveOps - The ReactiveOps “Bestest Kubernetes Cluster Upgrade” - https://medium.com/@reactiveops/the-reactiveops-bestest-kubernetes-cluster-upgrade-f7a7589b21fb
 
