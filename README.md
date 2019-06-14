@@ -26,9 +26,12 @@
 
 ### Talk
 
+- 2019 - Spotify - Keynote: How Spotify Accidentally Deleted All its Kube Clusters with No User Impact - https://www.youtube.com/watch?v=ix0Tw8uinWs
+
 - 2018 - Financial Times - Keynote: The Challenges of Migrating 150+ Microservices to Kubernetes - https://www.youtube.com/watch?v=H06qrNmGqyE
 
 - 2018 - Monzo Bank - Anatomy of a Production Kubernetes Outage (incident available in section `Incidents/Outages`) - https://www.youtube.com/watch?v=OUYTNywPk-s
+
 
 
 ### Incident/Outage
